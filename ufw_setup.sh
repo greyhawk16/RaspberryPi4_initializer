@@ -6,6 +6,7 @@ sudo apt install ufw -y
 sudo ufw enable
 
 # 2. Set ports to allow at ufw
+sudo ufw default deny
 sudo ufw allow 80
 sudo ufw allow 443
 sudo ufw allow $SSH_PORT
