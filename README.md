@@ -5,7 +5,7 @@
 
 
 ## Description
-These scripts set up SSH configuration, ufw, fail2ban to protect your raspberry pi or (debian)linux from brute force attacks.
+These scripts set up SSH configuration, ufw, fail2ban to protect your raspberry pi or linux from brute force attacks.
 
 
 ## How to Use
